@@ -155,6 +155,8 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <viewLayoutGuide key="safeArea" id="bNn-gZ-2gS"/>
                     </view>
+                    <toolbarItems/>
+                    <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                     <connections>
                         <outlet property="txtEmpBirthdate" destination="oqD-vA-g7D" id="efz-WT-YTB"/>
                         <outlet property="txtEmpId" destination="inl-oE-9IL" id="AOz-JQ-CSf"/>
@@ -218,6 +220,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="Th7-NU-3b5"/>
+        <segue reference="GVI-4I-EbZ"/>
     </inferredMetricsTieBreakers>
 </document>
