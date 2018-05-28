@@ -24,4 +24,4 @@
 ### Install WebDriver for iOS Appium Tes - Please find the project first
 ///FOUND at location usr/local/lib/node_modules/appium/node_modules/appium-xcuitest-driver/WebDriverAgent
 
-- $ xcodebuild -project WebDriverAgent.xcodeproj -scheme WebDriverAgentRunner -destination id=fcf00e9b2dfdf0b737e072235100a049f6830f75 test
+- $ xcodebuild -project WebDriverAgent.xcodeproj -scheme WebDriverAgentRunner -destination id=<Device UDID> test
