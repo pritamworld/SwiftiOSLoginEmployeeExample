@@ -3,7 +3,7 @@
 ### Command Line tools
 
  If you want to use a specific version of Appium such as 1.7.2, you need to use this command 
-- npm install appium@1.7.2
+- $ npm install appium@1.7.2
 
 - $ xcrun simctl list
 - $ instruments -s devices (UNKNOWN)
@@ -12,6 +12,7 @@
 - $ appium -v
 - $ node -v
 - $ sudo npm install --global --unsafe-perm ios-deploy
+- $ xcode-select -p
 
 - $ npm list -g | grep appium
 
